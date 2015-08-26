@@ -1,0 +1,12 @@
+☛ Problems:
+
+
+☛ Tutorials:
+http://www.cs.umd.edu/class/fall2011/cmsc858s/Lec02-zalg.pdf
+http://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/
+https://ivanyu.me/blog/2013/10/15/z-algorithm/
+http://e-maxx-eng.github.io/string/z-function.html
+http://codeforces.com/blog/entry/3107
+
+Visualization:
+http://www.utdallas.edu/~besp/demo/John2010/z-algorithm.htm

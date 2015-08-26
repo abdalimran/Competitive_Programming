@@ -1,0 +1,17 @@
+☛ Tutorials:
+http://www.priyo.com/tutorial/প্রোগ্রামিং/2012/03/17/2940.html
+http://www.shafaetsplanet.com/planetcoding/?p=763
+http://www.cs.cornell.edu/~wdtseng/icpc/notes/graph_part4.pdf
+
+
+☛ Other's Implementations:
+https://github.com/sebastian-claici/dsa/blob/master/cpp/data_structures/disjoint_set/disjoint_set.cpp
+https://github.com/marioyc/ACM-ICPC-Library/blob/master/graphs/union-find.cpp
+http://git.aliens-lyon.fr/atalon/acm-notebook/blob/master/older/code4.cpp
+
+
+☛ Problems:
+https://www.hackerrank.com/domains/data-structures/disjoint-set
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=359
+https://leetcode.com/tag/union-find/
+

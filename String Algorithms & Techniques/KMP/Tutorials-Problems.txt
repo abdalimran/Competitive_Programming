@@ -1,0 +1,12 @@
+☛ Problems:
+
+
+☛ Tutorials:
+https://lazylearnerrises.wordpress.com/author/sanjaryrahman/
+http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html
+https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/
+http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm
+
+Visualization:
+http://whocouldthat.be/visualizing-string-matching/
+https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/kpm-example.html
