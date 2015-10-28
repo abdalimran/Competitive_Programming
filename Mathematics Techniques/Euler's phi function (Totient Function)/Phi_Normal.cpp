@@ -7,7 +7,7 @@
 using namespace std;
 
 //Normal Algorithm
-int phi(int n)
+int Phi(int n)
 {
     int ret=n;
     for(int i=2; i*i<=n; i++)

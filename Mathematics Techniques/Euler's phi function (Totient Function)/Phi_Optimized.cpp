@@ -11,7 +11,7 @@ using namespace std;
 
 int phi[M];
 
-void phi()
+void Phi()
 {
     for(int i=1; i<M; i++)
         phi[i]=i;

@@ -8,7 +8,7 @@ using namespace std;
 
 int phi[1000006],mark[1000006];
 
-void sievephi(int n)
+void sievePhi(int n)
 {
     for(int i=1; i<=n; i++)
         phi[i]=i;
